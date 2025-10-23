@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi👋, I'm Amr Mohamed 
+"Don't forget to take Small Steps Every Day towards achieving your dreams"
 
-<!--
-**Amr-Mohamed210/Amr-Mohamed210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I study Computer Science and Artificial Intelligence at Alryada University.
+🖥 Cybersecurity Engineer Specialize in Track Penetration Tester.
+💻 Passionate backend developer with expertise in .NET Core and C#, dedicated to building efficient and scalable web applications.⚡
+👨‍💻 I am a competitive programmer at Codeforces.
+⭐ I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions.
 
-Here are some ideas to get you started:
+## 🛠 Programming Languages & Tech Stack
+🖥️ Programming Languages: C++,c#,Python,JavaScript,SQL
+🔧 Frameworks & Tools: .NET Core (MVC & API)
+🗄️ Databases: SQL Server
+🎨 Frontend: HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+http://linkedin.com/in/amr-mohamed-462a92294
+https://codeforces.com/profile/Amr_210
+
+## 📫 Connect With Me
+amrmohamedmohamed361@gmail.com
