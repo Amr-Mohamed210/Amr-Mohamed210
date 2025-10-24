@@ -12,9 +12,10 @@
 ## 🏅 Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Amr_210">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Codeforces_logo.svg" width="100" height="100" alt="Codeforces"/>
+  <a href="https://codeforces.com/profile/Amr_210" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Codeforces_logo.svg" alt="Codeforces" width="150"/>
   </a>
+</p>
 
 ---
 
@@ -34,12 +35,7 @@
 - 🛠 *Databases:* SQL Server, Database Design.
 - 🔐 *Cybersecurity :* Network Security, OWASP Top 10, Linux, Encryption.
 - 🌐 *Web Development:* HTML, CSS, Back-End, Responsive Design.
-- 📊 *Office Tools:*  
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="24" alt="Word"/> *Microsoft Word* &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="24" alt="Excel"/> *Excel* &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="24" alt="PowerPoint"/> *PowerPoint* &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Access_2019_present.svg" width="24" alt="Access"/> *Access* &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="24" alt="Outlook"/> *Outlook*](https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg)
+- 📊 *Office Tools:* Microsoft Word, Excel, PowerPoint, Access, Outlook.
 - 🧩 *Tools & Platforms:* Git, GitHub, Visual Studio.
 - 📈 *Soft Skills:* Teamwork, Communication, Continuous Learning, Time Management.
  --- 
