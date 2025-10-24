@@ -5,7 +5,6 @@
 - 💼 Currently  *I Study Computer Sciences and Artificial Intelligence* faculty at *Alryada University*.
 - 👨🏻‍💻 Cybersecurity Engineer Specialize in Track Penetration Tester.
 - 💻 Passionate *backend developer* with expertise in *.NET Core* and *C#*, dedicated to building efficient and scalable web applications.  
-- 🧠 I am a *competitive programmer* at [Codeforces](https://codeforces.com/profile/Amr_210).
 - ⭐ I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions.
 
 ---
