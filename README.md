@@ -14,9 +14,15 @@ I study Computer Science and Artificial Intelligence at Alryada University.
 🗄️ Databases: SQL Server
 🎨 Frontend: HTML, CSS, JavaScript
 
+
+
+
 ## 🔗 Links
-http://linkedin.com/in/amr-mohamed-462a92294
-https://codeforces.com/profile/Amr_210
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Amr-Mohamed210)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/amr-mohamed-462a92294)
+
+
+
 
 ## 📫 Connect With Me
 amrmohamedmohamed361@gmail.com
