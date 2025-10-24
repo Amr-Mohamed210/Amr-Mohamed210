@@ -1,28 +1,60 @@
-# Hi👋, I'm Amr Mohamed 
+# Hi there, I'm Amr Mohamed 👋
 "Don't forget to take Small Steps Every Day towards achieving your dreams"
-
+ 
 ## 🚀 About Me
-I study Computer Science and Artificial Intelligence at Alryada University.
-🖥 Cybersecurity Engineer Specialize in Track Penetration Tester.
-💻 Passionate backend developer with expertise in .NET Core and C#, dedicated to building efficient and scalable web applications.⚡
-👨‍💻 I am a competitive programmer at Codeforces.
-⭐ I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions.
+- 💼 Currently  *I Study Computer Sciences and Artificial Intelligence* faculty at *Alryada University*.
+- 👨🏻‍💻 Cybersecurity Engineer Specialize in Track Penetration Tester.
+- 💻 Passionate *backend developer* with expertise in *.NET Core* and *C#*, dedicated to building efficient and scalable web applications.  
+- 🧠 I am a *competitive programmer* at [Codeforces](https://codeforces.com/profile/Amr_210).
+- ⭐ I'm always eager to learn new technologies and techniques to improve my skills and create innovative solutions.
 
-## 🛠 Programming Languages & Tech Stack
-🖥️ Programming Languages: C++,c#,Python,JavaScript,SQL
-🔧 Frameworks & Tools: .NET Core (MVC & API)
-🗄️ Databases: SQL Server
-🎨 Frontend: HTML, CSS, JavaScript
+---
 
+## 🏅 Competitive Programming Profiles
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Amr_210">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Codeforces_logo.svg" width="100" height="100" alt="Codeforces"/>
+  </a>
 
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Amr-Mohamed210)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/amr-mohamed-462a92294)
+## 🧰 Programming Languages & Tech Stack
 
+- 🧑‍💻 **Programming Languages:** c++, C#, Python, Java 
+- 🧩 **Frameworks & Tools:** .NET Core (MVC & API).
+- 🗃️ **Databases:** SQL Server  
+- 🎨 **Frontend:** HTML, CSS  
 
+---
 
+## 🧠 Skills
 
+- 💻 *Programming:* Problem Solving, OOP, Data Structures & Algorithms. 
+- ⚙ *Backend Development:* RESTful APIs, ASP.NET.  
+- 🛠 *Databases:* SQL Server, Database Design.
+- 🔐 *Cybersecurity :* Network Security, OWASP Top 10, Linux, Encryption.
+- 🌐 *Web Development:* HTML, CSS, Back-End, Responsive Design.
+- 📊 *Office Tools:*  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="22" alt="Word"/> *Microsoft Word* &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732214.png" width="22" alt="Excel"/> *Excel* &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="22" alt="PowerPoint"/> *PowerPoint* &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732222.png" width="22" alt="Access"/> *Access* &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="22" alt="Outlook"/> *Outlook*  
+- 🧩 *Tools & Platforms:* Git, GitHub, Visual Studio.
+- 📈 *Soft Skills:* Teamwork, Communication, Continuous Learning, Time Management.
+ --- 
+ 
 ## 📫 Connect With Me
-amrmohamedmohamed361@gmail.com
+
+<p align="center">
+  <a href="amrmohamedmohamed361@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://linkedin.com/in/amr-mohamed-462a92294">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+</p>
+</p>
+
