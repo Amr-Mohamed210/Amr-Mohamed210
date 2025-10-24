@@ -35,11 +35,11 @@
 - 🔐 *Cybersecurity :* Network Security, OWASP Top 10, Linux, Encryption.
 - 🌐 *Web Development:* HTML, CSS, Back-End, Responsive Design.
 - 📊 *Office Tools:*  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="24" alt="Word"/> *Microsoft Word* &nbsp;&nbsp;
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="24" alt="Word"/> *Microsoft Word* &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="24" alt="Excel"/> *Excel* &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="24" alt="PowerPoint"/> *PowerPoint* &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Access_2019_present.svg" width="24" alt="Access"/> *Access* &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="24" alt="Outlook"/> *Outlook*
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="24" alt="Outlook"/> *Outlook*](https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg)
 - 🧩 *Tools & Platforms:* Git, GitHub, Visual Studio.
 - 📈 *Soft Skills:* Teamwork, Communication, Continuous Learning, Time Management.
  --- 
