@@ -54,4 +54,8 @@
   <a href="http://linkedin.com/in/amr-mohamed-462a92294">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48"/>
   </a>
+
+  <a href="https://x.com/amrmohamed74056?s=21" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter / X Profile" width="120"/>
+  </a>
 </p>
