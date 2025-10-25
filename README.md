@@ -56,6 +56,6 @@
   </a>
 
   <a href="https://x.com/amrmohamed74056?s=21" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter / X Profile" width="120"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter / X" width="60"/>
   </a>
 </p>
