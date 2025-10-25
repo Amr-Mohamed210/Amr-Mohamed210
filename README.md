@@ -13,14 +13,13 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Amr_210" target="_blank">
-    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="140"/>
+    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="140" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Amr-Mohamed210/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
   </a>
 </p>
- 
 
 ## 🧰 Programming Languages & Tech Stack
 
