@@ -9,13 +9,10 @@
 
 ---
 
-## 🏅 Competitive Programming Profiles
+## 🏅 Competitive Programming Profile
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Amr_210" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Codeforces_logo.svg" alt="Codeforces" width="150"/>
-  </a>
-</p>
+
+[![Codeforces](https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png)](https://codeforces.com/profile/Amr_210)
 
 ---
 
