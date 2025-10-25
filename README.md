@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Amr_210" target="_blank">
-    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="140" height="60"/>
+    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="140" style="transform: scale(1, 1.3);"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Amr-Mohamed210/" target="_blank">
