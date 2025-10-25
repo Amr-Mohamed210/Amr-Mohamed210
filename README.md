@@ -12,8 +12,11 @@
 ## 🏅 Competitive Programming Profile
 
 
-[![Codeforces](https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png)](https://codeforces.com/profile/Amr_210)
-
+<p align="center">
+  <a href="https://github.com/Amr-Mohamed210">
+    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="150"/>
+  </a>
+</p>
 ---
 
 ## 🧰 Programming Languages & Tech Stack
@@ -39,11 +42,14 @@
  
 ## 📫 Connect With Me
 
-## 📮 Connect With Me
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:amrmohamedmohamed361@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
+  </a>
 
-<a href="mailto:amrmohamedmohamed361@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
-</a>
-<a href="http://linkedin.com/in/amr-mohamed-462a92294">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="http://linkedin.com/in/amr-mohamed-462a92294">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48"/>
+  </a>
+</p>
