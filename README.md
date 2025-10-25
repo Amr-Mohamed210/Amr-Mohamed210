@@ -11,24 +11,16 @@
 
 ## 🏅 Competitive Programming Profiles
 
-
 <p align="center">
-  <a href="https://codeforces.com/profile/Amr_210">
-    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces Profile" width="150"/>
+  <a href="https://codeforces.com/profile/Amr_210" target="_blank">
+    <img src="https://sta.codeforces.com/s/78407/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="140"/>
   </a>
-  <br/>
-  <strong>زور بروفايلي على Codeforces 💪</strong>
-</p>
-
----
-
-<p align="center">
-  <a href="https://leetcode.com/u/Amr-Mohamed210/">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rays.png" alt="LeetCode Profile" width="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Amr-Mohamed210/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
   </a>
-  <br/>
-  <strong>زور بروفايلي على LeetCode 🧠</strong>
 </p>
+ 
 
 ## 🧰 Programming Languages & Tech Stack
 
