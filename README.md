@@ -39,14 +39,11 @@
  
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="amrmohamedmohamed361@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="http://linkedin.com/in/amr-mohamed-462a92294">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
-</p>
-</p>
+## 📮 Connect With Me
 
+<a href="mailto:amrmohamedmohamed361@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
+</a>
+<a href="http://linkedin.com/in/amr-mohamed-462a92294">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48"/>
+</a>
